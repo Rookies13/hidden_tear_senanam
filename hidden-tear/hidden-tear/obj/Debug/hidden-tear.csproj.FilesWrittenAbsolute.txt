@@ -1,0 +1,16 @@
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/hidden_tear.Form1.resources
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/hidden_tear.Properties.Resources.resources
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/hidden-tear.exe
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/hidden-tear.pdb
+/home/kali/hidden-tear/hidden-tear/hidden-tear/bin/Debug/hidden-tear.exe.config
+/home/kali/hidden-tear/hidden-tear/hidden-tear/bin/Debug/hidden-tear.exe.mdb
+/home/kali/hidden-tear/hidden-tear/hidden-tear/bin/Debug/hidden-tear.pdb
+/home/kali/hidden-tear/hidden-tear/hidden-tear/bin/Debug/hidden-tear.exe
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/hidden-tear.exe.mdb
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/.NETFramework,Version=v5.0.AssemblyAttribute.cs
+/home/kali/hidden-tear/hidden-tear/hidden-tear/bin/Debug/pic/skull.jpg
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/.NETFramework,Version=v6.0.AssemblyAttribute.cs
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/.NETFramework,Version=v4.8.1.AssemblyAttribute.cs
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/.NETFramework,Version=v4.5.2.AssemblyAttribute.cs
+/home/kali/hidden-tear/hidden-tear/hidden-tear/obj/Debug/.NETFramework,Version=v4.7.1.AssemblyAttribute.cs

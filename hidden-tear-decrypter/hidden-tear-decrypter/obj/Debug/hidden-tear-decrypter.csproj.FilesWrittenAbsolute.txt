@@ -1,0 +1,10 @@
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/obj/Debug/hidden_tear_decrypter.Form1.resources
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/obj/Debug/hidden_tear_decrypter.Properties.Resources.resources
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/bin/Debug/hidden-tear-decrypter.exe.config
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/bin/Debug/hidden-tear-decrypter.exe.mdb
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/bin/Debug/hidden-tear-decrypter.pdb
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/bin/Debug/hidden-tear-decrypter.exe
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/obj/Debug/hidden-tear-decrypter.exe
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/obj/Debug/hidden-tear-decrypter.exe.mdb
+/home/kali/hidden-tear-decrypter/hidden-tear-decrypter/obj/Debug/hidden-tear-decrypter.pdb
