@@ -1,7 +1,7 @@
-## 주의!! 실행 결과에 대해 책임지지 않습니다.
+# 주의!! 실행 결과에 대해 책임지지 않습니다.
 
 
-# 기존 hidden-tear 대비 변경사항
+## 기존 hidden-tear 대비 변경사항
 
 (1) .Net 4.5.1 사용
 
@@ -11,7 +11,7 @@
 
 
 
-# 실행 시
+## 실행 시
 
 ![1](https://github.com/Rookies13/hidden_tear_senanam/assets/118866737/c2d3647a-1d76-4a97-82e1-bd3bc7dd3bf5)
 
