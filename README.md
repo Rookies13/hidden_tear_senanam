@@ -12,15 +12,3 @@
 (4) 랜섬웨어 실행 시 생성되는 READ_IT.txt 파일 내용 수정
 
 (5) test 파일 내부의 파일만이 아니라, 해당 사용자의 모든 경로에 있는 파일을 암호화
-
-
-
-## 실행 시
-
-![1](https://github.com/Rookies13/hidden_tear_senanam/assets/118866737/c2d3647a-1d76-4a97-82e1-bd3bc7dd3bf5)
-
-랜섬웨어 실행 전
-
-![2](https://github.com/Rookies13/hidden_tear_senanam/assets/118866737/46038675-71f2-4863-8942-5f59326931ae)
-
-랜섬웨어 실행 후
