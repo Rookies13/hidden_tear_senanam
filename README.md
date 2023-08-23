@@ -1,8 +1,4 @@
-<div align="center">
-  <span style="color:red">
-    # 주의!! 실행 결과에 대해 책임지지 않습니다.
-  </span>
-</div>
+주의!! 실행 결과에 대해 책임지지 않습니다.
 
 
 ## 기존 hidden-tear 대비 변경사항
